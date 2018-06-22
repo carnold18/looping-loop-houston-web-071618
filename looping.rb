@@ -1,6 +1,5 @@
 def looping 
-  do
-	puts "Wingardium Leviosa"
+  do puts "Wingardium Leviosa"
 	end
 end
 
